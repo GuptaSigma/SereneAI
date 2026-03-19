@@ -24,7 +24,7 @@ Machine Learning (Sentiment & NLP models)
 
 Text-to-Speech Engine
 
-Replit / GitHub (Deployment)
+ GitHub (Deployment)
 
 
 # Install dependencies
